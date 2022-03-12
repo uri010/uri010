@@ -18,3 +18,4 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=uri010&show_icons=true&title_color=5c6bc0&icon_color=7986cb&text_color=9f9f9f&bg_color=151515)
  </p>
+
