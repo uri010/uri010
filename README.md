@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
 <br>
 <br>
-<h2 align="center">Stats</h2>
+<h2 align="center">📈Stats📈</h2>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=uri010&show_icons=true&title_color=5c6bc0&icon_color=7986cb&text_color=9f9f9f&bg_color=151515)
  </p>
