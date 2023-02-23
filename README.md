@@ -1,8 +1,9 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=uri010&fontAlign=80&fontAlignY=40&color=gradient)
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h2 align="center">📚 STACKS </h2>
 <p align="center">
   Techs that i've used at least once<br><br>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <br>
@@ -13,10 +14,5 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
-<br>
-<br>
-<h2 align="center">📈Stats📈</h2>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=uri010&show_icons=true&title_color=5c6bc0&icon_color=7986cb&text_color=9f9f9f&bg_color=151515)
- </p>
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
