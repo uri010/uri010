@@ -1,13 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=uri010&fontAlign=80&fontAlignY=40&color=gradient)
 
-
-graph TD;
-  main --> dev;
-  dev -->|기능 개발| feat/fe/로그인;
-  dev -->|기능 개발| feat/be/회원가입;
-  dev -->|버그 수정| fix/be/버그수정;
-  dev -->|리팩토링| refactor/fe/UI수정;
-
 <h2 align="center">💻 PROJECTS </h2> 
 <h3> 🙋‍♀️ 도와줘요 M쌤! </h4>
 
